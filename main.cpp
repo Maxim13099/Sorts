@@ -26,7 +26,7 @@ int main(){
         CountingSort(arr, size);
         break;
         case 5:
-        MergSort(art, size);
+        MergeSort(arr, size, 0, size-1);
         break;
         }
 }

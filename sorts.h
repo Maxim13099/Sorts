@@ -8,4 +8,5 @@ using namespace std;
     void SelectionSort(int arr[], const int size);
     void InsertionSort(int arr[], const int size);
     void CountingSort(int arr[], const int size);
+    void MergeSort(int arr[], int p, int q, int r);
 #endif // SORTS_H
